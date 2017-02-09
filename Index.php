@@ -1,6 +1,8 @@
 <?php
 
-echo 'comentario 1';
+
+echo 'knekro';
+
 require_once __DIR__."/Vista/Login/Login.php";
 
 
