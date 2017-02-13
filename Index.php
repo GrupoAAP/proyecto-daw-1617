@@ -1,15 +1,7 @@
 <?php
 
 
-<<<<<<< Updated upstream
-echo 'jola';
-=======
-<<<<<<< HEAD
-echo 'andercomentario125';
-=======
-echo 'jola';
->>>>>>> origin/master
->>>>>>> Stashed changes
+echo 'pero que me estas contando loko un miutu shini';
 
 require_once __DIR__."/Vista/Login/Login.php";
 
