@@ -7,7 +7,7 @@ echo 'chiflos';
 echo "payasapabla";
 echo "el chapusas informatiko loko";
 
-echo 'nekroputoamo';
+echo 'nekroputoamo nekro si';
 
 ?>
 
